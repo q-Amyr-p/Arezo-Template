@@ -223,12 +223,12 @@ input {
 
 /* Post messages*/
 .messages-post {
-    background-color: #363636;
-    padding-bottom: 20px;
-    text-align: center;
-    box-shadow: 1px 1px 6px 0px rgba(117, 117, 117, 1);
-    margin: 10px;
-    padding: 5px;
+  background-color: #363636;
+  padding-bottom: 20px;
+  text-align: center;
+  box-shadow: 1px 1px 6px 0px rgba(117, 117, 117, 1);
+  margin: 10px;
+  padding: 5px;
 }
 .messages-comments {
   margin: 0px;
@@ -296,11 +296,11 @@ input {
 }
 
 .posts .comments form {
-    background-color: #363636;
-    color: #fff;
-    box-shadow: 1px 1px 6px 0px rgba(117, 117, 117, 1);
-    padding: 10px;
-    margin-bottom: 10px;
+  background-color: #363636;
+  color: #fff;
+  box-shadow: 1px 1px 6px 0px rgba(117, 117, 117, 1);
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
 .posts .comments .comment-website {
@@ -309,11 +309,11 @@ input {
 }
 
 .posts .comments .comment {
-    background-color: #363636;
-    color: #fff;
-    box-shadow: 1px 1px 6px 0px rgba(117, 117, 117, 1);
-    margin-top: 0px;
-    margin-bottom: 10px;
+  background-color: #363636;
+  color: #fff;
+  box-shadow: 1px 1px 6px 0px rgba(117, 117, 117, 1);
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 .posts .comments .comment-text {
@@ -321,10 +321,10 @@ input {
 }
 
 .posts .comments .detail {
-    background-color: #ffb300;
-    color: #212121;
-    margin-bottom: 0px;
-    padding: 10px;
+  background-color: #ffb300;
+  color: #212121;
+  margin-bottom: 0px;
+  padding: 10px;
 }
 
 .posts .comments .detail img {
